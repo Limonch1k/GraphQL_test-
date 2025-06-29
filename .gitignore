@@ -1,0 +1,90 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm/
+arm64/
+build/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.pch
+*.pidb
+*.opendb
+bin/
+obj/
+.vs/
+*.psess
+*.vsp
+*.vsem
+_ReSharper*/
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+*.iml
+*.iws
+*.swp
+*.swo
+*.tmp
+*.log
+*.cache
+*.stackdump
+
+# Roslyn cache
+*.ide/
+*.roslyn/
+
+# NuGet
+packages/
+project.assets.json
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# .NET
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Oo]utputs/
+appsettings.Development.json
+*.local.xml
+*.dotCover
+*.dotTrace
+*.dotMemory
+*.DotSettings.user
+
+# Docker
+Dockerfile*
+docker-compose*
+.env
+
+# Editor files
+*.orig
+*.rej
+*~
+.swp
+.*.swp
+
+# User-specific files
+*.sln.dotCover
+*.userprefs
+*.csproj.user
+*.dotnet-globals.json
+*.dotsettings
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testlog
+*.pdb
+*.mdb
+*.prof
+
+# VS Code
+.vscode/
