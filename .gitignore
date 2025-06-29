@@ -57,11 +57,6 @@ appsettings.Development.json
 *.dotMemory
 *.DotSettings.user
 
-# Docker
-Dockerfile*
-docker-compose*
-.env
-
 # Editor files
 *.orig
 *.rej
